@@ -1,0 +1,15 @@
+
+
+@media only screen and (max-width: 576px) {
+.general{
+    position: relative;
+}
+  #oneImage{
+    margin-left: 50px;
+  }
+    .one{
+        position: absolute;
+        top: 600px;
+        left: 100px;        
+    }
+  }
